@@ -1,1 +1,5 @@
 print("hello")
+eng = int(input("Enter English score "))
+mat = int(input("Enter Maths score "))
+sci = int(input("Enter Science score "))
+print(eng+mat+sci)
