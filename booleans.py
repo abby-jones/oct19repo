@@ -6,7 +6,7 @@ if num1 > num2:
 else:
     num1bigger = False
 
-print('It is ', num1bigger, 'that num1 is bigger')
+print('It is ', num1bigger, 'that num1 is bigger than num2')
 
 # if the first number the user enters is bigger than the second 
 # number then the variable num1bigger will be set to true
